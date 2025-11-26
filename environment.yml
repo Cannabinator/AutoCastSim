@@ -1,4 +1,4 @@
-name: autocast
+prefix: /home/laurin/autoCastPullRequest/AutoCastSim/env
 channels:
   - pytorch
   - defaults
